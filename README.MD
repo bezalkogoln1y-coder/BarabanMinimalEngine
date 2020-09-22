@@ -14,4 +14,4 @@
 
 ### Для установки используем данную команду
 
-> git clone https://github.com/bezalkogoln1y-coder/BarabanMinimalEngine.git . | composer install
+> git clone https://github.com/bezalkogoln1y-coder/BarabanMinimalEngine.git .|composer install
