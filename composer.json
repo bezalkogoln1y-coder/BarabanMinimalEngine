@@ -1,6 +1,6 @@
 {
-   "name": "baraban/baraban",
-   "description": "Baraban Package",
+   "name": "baraban/baraban-minimal-engine",
+   "description": "Baraban Minimal Engine",
    "type": "any",
    "authors": [
       {
@@ -8,12 +8,9 @@
          "email": "muskatinartem@gmail.com"
       }
    ],
-   "require": {
-      "electrolinux/phpquery": "^0.9.6"
-   },
    "autoload": {
       "psr-4": {
-         "Baraban\\": "src/"
+         "Core\\": "Core"
       }
    }
 }
