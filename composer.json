@@ -12,10 +12,5 @@
       "psr-4": {
          "Core\\": "Core"
       }
-   },
-   "packages": {
-      "baraban/baraban-minimal-engine": {
-         "dev-master": { @composer.json }
-      }
    }
 }
