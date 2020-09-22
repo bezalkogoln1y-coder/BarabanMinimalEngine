@@ -11,3 +11,7 @@
       -  Core/View.php (Шаблонизатор)
       -  Core/Controllers (Директория контроллеро)
          -  Controllers/MainController.php (Главный контроллер)
+
+### Для установки используем данную команду
+
+git clone https://github.com/bezalkogoln1y-coder/BarabanMinimalEngine.git . | composer install
